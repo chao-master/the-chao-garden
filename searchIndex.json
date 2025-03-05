@@ -1,7 +1,15 @@
 [
 {
+		"title": "The about pages",
+		"date":"Wed Mar 05 2025 20:42:56 GMT+0000 (Coordinated Universal Time)",
+		"url":"/",
+		"content": "Hello :wave:",
+		"tags": [ "note","gardenEntry"]
+},
+
+{
 		"title": "ːIPA-triangular-colon",
-		"date":"Wed Mar 05 2025 20:41:36 GMT+0000 (Coordinated Universal Time)",
+		"date":"Wed Mar 05 2025 20:42:56 GMT+0000 (Coordinated Universal Time)",
 		"url":"/about/ipa-triangular-colon/",
 		"content": "This &quot;ː&quot; is an IPA-triangular-colon, it was one of the icons shown to me on Wikipedia when I looked up &quot;colon&quot; to find a visually similar but different character to use in these page titles since Obsidian doesn't allow me to use the regular colon\nThe other two contenders where:\n- Smash entry screen RATIO :\nTurns out to also not be allowed I think it's just a colon\n- Letter colon ꞉\nI figured if I was going to I might as well go for a very different character so I didn't get confused later.",
 		"tags": [ "note"]
@@ -9,7 +17,7 @@
 
 {
 		"title": "ːabout-IPA-triangular-colon",
-		"date":"Wed Mar 05 2025 20:41:36 GMT+0000 (Coordinated Universal Time)",
+		"date":"Wed Mar 05 2025 20:42:56 GMT+0000 (Coordinated Universal Time)",
 		"url":"/about/about-ipa-triangular-colon/",
 		"content": "A collection of various length, open format, musing from me about things that I want to write down and maybe one day share.\nThe name derives from &quot;about:...&quot; pages that web browser have, and I have used the prefix in the past for titling things, such as a previous &quot;about:Operator&quot; page.\nThe IPA-triangular-colon is explained in <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/about/ipa-triangular-colon/\">aboutː/ːIPA-triangular-colon</a>.\nThe urge to write everything down comes from the coinciding of two events, one my manager proposing a &quot;getting to know me&quot; thing, and two encountering hecko, who has a website of similar ramblings.\n\nUpdates:\nThe aboutː pages will receive updates in 3 main ways:\n\nAdditions &amp; New pages, whenever I feel the need or urge to write things down I'll add either a new page or a new section to a page as needed\nChanges, as information becomes out of date or corrections are needed then I'll be modifying large swathes of the data to update and correct it\nPatches, Often I write these fast without thinking, much to the dismay of my GCSE English teacher who would also say &quot;never think and write at the same time&quot;. Well I suffer for this rapid fire writing and often find myself unable to read my own writing afterwards, so when I come across old writing like this I edit it slightly myself to make it easier to follow.\n\nIn fact if you find issues in the writing, reach out, in a kind way.",
 		"tags": [ "note"]
@@ -17,7 +25,7 @@
 
 {
 		"title": "ːautismːprofessionals-diagnosis",
-		"date":"Wed Mar 05 2025 20:41:36 GMT+0000 (Coordinated Universal Time)",
+		"date":"Wed Mar 05 2025 20:42:56 GMT+0000 (Coordinated Universal Time)",
 		"url":"/about/autism-professionals-diagnosis/",
 		"content": "When talking about an autism diagnosis I heavily dislike the term &quot;professionally diagnosed&quot; due to the long standing debate about self vs professionally diagnosed autism. To refer to having hence gone and been diagnosed by a professional I use the term &quot;professional's diagnosis&quot;\nBy the way it costs £30 to gain access to an article titled &quot;Which terms should be used to describe autism? Perspectives from the UK autism community&quot; which is the worst thing about the costs of autism I have found out this year.",
 		"tags": [ "note"]
@@ -25,7 +33,7 @@
 
 {
 		"title": "ːhyper-fixations",
-		"date":"Wed Mar 05 2025 20:41:36 GMT+0000 (Coordinated Universal Time)",
+		"date":"Wed Mar 05 2025 20:42:56 GMT+0000 (Coordinated Universal Time)",
 		"url":"/about/hyper-fixations/",
 		"content": "Current hyper fixations\n\nArts and crafts, specifically:\n\nPutting a Glaceon plush into a bondage harness made out of ribbon. Like I'm really fucking proud of this, its going to be a gift, look at it (No idea what it's pronouns are yet)\n\nAnd of course, there is a DOM!\nI got them both from the GAME in the House of Fraser as it closed, and since it was closing I got them both for a killer price. Shortly afterwards realised that one of them was such, a little subby bitch, so got some ribbon and slip rings, tried my hand at sewing and made it a bondage harness. The harness design is not practical but it's kind of hard to work it around it's sitting pose well. There is numerous sewing mistakes and a single math mistake.\nMake foamboard inserts for my board game boxes so they better hold all their pieces, like:\n\nFor Carcassonne, since I have around twice as many pieces as the base game has thanks to some neat expansions.\n\nIn the future, Betrayal at House on The Hill, which doesn't transport well and also, expansion.\n\nSea shanties, like the longest Johns\n\nThings that I keep forgetting are really fun\n\nOrganizing my clothes\nLike the drawer under my bed was a mess, so I got some IKEA🎉 fabric box things designed for it, and then I just folded up clothes up, I tried rolling but it wasn't as good, and put them in and now I have neat little cubes of jammies, so many non-pairs of jammies.\nAs a downside I learned that my cat has shed so much hair in this under bed drawer.\n\nPrevious Hyper fixations\n\nCooking, I tried it for a bit but my girlfriend is fussy when it comes to eating, and it was annoying to buy the things I needed so I just reverted back into eating pasta, though I did learn to put garlic in things and mix up Chorizo seasoning.\n\nCurrent random math stim\n\naboutːcurrent-random-math-stim\n\nI often have a random math idea going through my mind that I will just blurt out randomly and it goes nowhere but it's fun. It's lead to some crazy fun stuff in the past.\n\nInverted sqrts.\nLike I know about sqrts, I know I can estimate them by like, finding the nearest square number, we shall call that b2 and then combining b with the difference of the number in question with the nearest square (b2 don't forget) and dividing that by 2b\nIn formula terms that looks like this: $$a^2 \\approx \\left(b+\\frac{a^2-b^2}{2b}\\right)^2$$\nI can tell you have doubts but if you just expand it out\na2≈b2+2b⋅a2−b22b+(a2−b22b)2And of course the 2bs cancel then the b2s cancel and finally we get\na2≈a2+(a2−b22b)2And boom the estimate is only off by that tiny amount! Fuck I love maths.\nOops I forgot about the inverted sqrts.\nSo...\nA=a2≈(b+a2−b22b)2A≈(b+A−b22b)∴1A≈2b2b2+A−b2Wait I never knew that it simplified to b2−a22b I can't tell if that's cooler or not, anyway\n1x≈2bb2+x",
 		"tags": [ "note"]
@@ -33,7 +41,7 @@
 
 {
 		"title": "ːmusical-tastes",
-		"date":"Wed Mar 05 2025 20:41:36 GMT+0000 (Coordinated Universal Time)",
+		"date":"Wed Mar 05 2025 20:42:56 GMT+0000 (Coordinated Universal Time)",
 		"url":"/about/musical-tastes/",
 		"content": "My musical tastes are fully ✨vibes based✨\nIt's often a collection of upbeat weird repative music I can jam and or sing to\nLike all my obsessions it goes through waves with some songs getting grand parented in\nSome bands &amp; People of interest right now include:\n\nAJR\nLongest Johns\nMilk in the microwave",
 		"tags": [ "note"]
@@ -41,7 +49,7 @@
 
 {
 		"title": "ːoperators-pager-emoji",
-		"date":"Wed Mar 05 2025 20:41:36 GMT+0000 (Coordinated Universal Time)",
+		"date":"Wed Mar 05 2025 20:42:56 GMT+0000 (Coordinated Universal Time)",
 		"url":"/about/operators-pager-emoji/",
 		"content": "Operator has a custom modified pager emoji, based on the Windows 10 Anniversary Update emoji, with two differences. First the emoji is rotated by an angle, and second it says OPERATOR on it, in brail.\nThe emoji exists on our discord server, and is used to prefix Operator's messages where necessary. On other platforms the pager emoji is used.\n\nMicrosoft's pager emoji (left) and Operator's variant (right)",
 		"tags": [ "note","📟Operator"]
@@ -49,7 +57,7 @@
 
 {
 		"title": "ːthe-sparkle-emoji",
-		"date":"Wed Mar 05 2025 20:41:36 GMT+0000 (Coordinated Universal Time)",
+		"date":"Wed Mar 05 2025 20:42:56 GMT+0000 (Coordinated Universal Time)",
 		"url":"/about/the-sparkle-emoji/",
 		"content": "I use ✨ for a specific type of emphis, best described by me wriggling or opening my fingers while moving them outwards in a slight downward arc like a rainbow\n✨ is also use internally know as the &quot;Feature emoji&quot; due to it's designation in gitmoji\n✨ is also regarded as &quot;Oh fuck gosh darn, no, that's a bloody AI button isn't it&quot;. The sparkle emoji committee really needs to attack big AI for that.\n\nFun fact, you can adopt emoji (and any Unicode character)\nLess fun fact, a process &quot;powered by AI&quot; has 1 of the 5 possible silver level adoption slots for ✨\n✨ is being done dirty.",
 		"tags": [ "note"]
@@ -57,7 +65,7 @@
 
 {
 		"title": "ːtrace",
-		"date":"Wed Mar 05 2025 20:41:36 GMT+0000 (Coordinated Universal Time)",
+		"date":"Wed Mar 05 2025 20:42:56 GMT+0000 (Coordinated Universal Time)",
 		"url":"/about/trace/",
 		"content": "Trace, stylised trace, is the designation for the separated operator process responsible for providing explicit additional context that other members of the system have not provided for some reason.\nWhile trace started existing as an Operator responsibility, they have become their own entity for a few reasons:\n\ntrace has far more of a personality that Operator does. One of Operator's operational requirements is to maintain neutrality as much as possible, but trace threatened this with a lot of snark.\nOperator has an inversion to the pronoun &quot;I&quot;, and trace does not.",
 		"tags": [ "note","System","📝Trace","📟Operator"]
