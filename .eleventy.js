@@ -7,7 +7,6 @@ const tocPlugin = require("eleventy-plugin-nesting-toc");
 const { parse } = require("node-html-parser");
 const htmlMinifier = require("html-minifier-terser");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
-const { EleventyHtmlBasePlugin } = require ("@11ty/eleventy");
 
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
 const {
@@ -530,7 +529,6 @@ module.exports = function (eleventyConfig) {
     ul: true,
     tags: ["h1", "h2", "h3", "h4", "h5", "h6"],
   });
-  eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
 
 
   eleventyConfig.addFilter("dateToZulu", function (date) {
@@ -566,7 +564,7 @@ module.exports = function (eleventyConfig) {
   return {
     dir: {
       input: "src/site",
-      output: "dist",
+      output: "dist/",
       data: `_data`,
     },
     templateFormats: ["njk", "md", "11ty.js"],

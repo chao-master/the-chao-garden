@@ -8,7 +8,7 @@ module.exports = async (data) => {
   }
   let themeStyle = globSync("src/site/styles/_theme.*.css")[0] || "";
   if (themeStyle) {
-    themeStyle = themeStyle.split("site")[1];
+    themeStyle = themeStyle.split("site")[1].replaceAll("\\","/");
   }
   let bodyClasses = [];
   let noteIconsSettings = {
