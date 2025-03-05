@@ -1,0 +1,16 @@
+<style>
+    .header-aliases {
+        font-style:italic;
+    }
+</style>
+
+<div class="header-meta">
+    {% if aliases %}
+        <div class="header-aliases">
+        Also known as:
+            {% for alias in aliases %}
+                {{alias}}{{"," if not loop.last}}
+            {% endfor %}
+        </div>
+    {% endif %}
+</div>
