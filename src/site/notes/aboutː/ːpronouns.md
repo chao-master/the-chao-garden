@@ -11,7 +11,7 @@ Now, onto my pronouns:
 Okay we are done right, well you may be here due to a footnote asking you to see aboutːpronouns, so in which case it's propably because you've seen me use a gendered term or different pronoun. Firstly, pronouns, gender, and gendered terms are all different, and using gendered words to describe myself does not in fact invalidate my pronouns.
 But secondly, and more importantly, I have a permit.
 
-![_attachments/RonCanDoWhatHeWants.jpg|A man hands a park ranger a slip of paper with the caption "Not to worry. I have a permit.". In the next panel the ranger shows the paper back to him captioned "This just says, "I can do what I want."](/img/user/_attachments/RonCanDoWhatHeWants.jpg)
+![_attachments/RonCanDoWhatHeWants.jpg|A man hands a park ranger a slip of paper with the caption &quote;Not to worry. I have a permit.&quote;. In the next panel the ranger shows the paper back to him captioned "This just says, "I can do what I want."](/img/user/_attachments/RonCanDoWhatHeWants.jpg)
 
 The best part about this quote though, which is normally missed in the memes, is the response
 > I am the director of the parks department and this is a park
