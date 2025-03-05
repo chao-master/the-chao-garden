@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about/the-sparkle-emoji/"}
+{"aliases":["✨"],"dg-publish":true,"permalink":"/about/the-sparkle-emoji/","dgPassFrontmatter":true}
 ---
 
 - I use ✨ for a specific type of emphis, best described by me wriggling or opening my fingers while moving them outwards in a slight downward arc like a rainbow
