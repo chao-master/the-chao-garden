@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about/autism-professionals-diagnosis/"}
+{"dg-publish":true,"title":"autism: professional's diagnosis","permalink":"/about/autism-professionals-diagnosis/","dgPassFrontmatter":true}
 ---
 
 When talking about an autism diagnosis I heavily dislike the term "professionally diagnosed" due to the long standing debate about self vs professionally diagnosed autism. To refer to having hence gone and been diagnosed by a professional I use the term "professional's diagnosis"
