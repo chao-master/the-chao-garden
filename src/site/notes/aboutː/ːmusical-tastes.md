@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about/musical-tastes/"}
+{"dg-publish":true,"permalink":"/about/musical-tastes/","dgPassFrontmatter":true}
 ---
 
 - My musical tastes are fully ✨vibes based✨

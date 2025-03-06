@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about/about-ipa-triangular-colon/"}
+{"aliases":["about \"ː\"","about IPA triangular colon"],"dg-publish":true,"permalink":"/about/about-ipa-triangular-colon/","dgPassFrontmatter":true}
 ---
 
 A collection of various length, open format, musing from me about things that I want to write down and maybe one day share.

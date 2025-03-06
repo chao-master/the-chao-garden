@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/about/ipa-triangular-colon/"}
+{"dg-publish":true,"permalink":"/about/ipa-triangular-colon/","dgPassFrontmatter":true}
 ---
 
-This "ː" is an IPA-triangular-colon, it was one of the icons shown to me on Wikipedia when I looked up "colon" to find a visually similar but different character to use in these page titles since Obsidian doesn't allow me to use the regular colon
+[This, "ː" is an IPA-triangular-colon](https://youtube.com/watch?v=GLlLQ3LmZWU&t=180), it was one of the icons shown to me on Wikipedia when I looked up "colon" to find a visually similar but different character to use in these page titles since Obsidian doesn't allow me to use the regular colon
 The other two contenders where:
 	- *Smash entry screen* RATIO :
 	  Turns out to also not be allowed I think it's just a colon

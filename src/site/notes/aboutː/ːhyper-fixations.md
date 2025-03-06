@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about/hyper-fixations/"}
+{"dg-publish":true,"permalink":"/about/hyper-fixations/","dgPassFrontmatter":true}
 ---
 
 

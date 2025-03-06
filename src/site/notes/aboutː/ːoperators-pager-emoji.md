@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about/operators-pager-emoji/","tags":["📟Operator"]}
+{"tags":["📟Operator"],"aliases":["operator's pager emoji"],"dg-publish":true,"permalink":"/about/operators-pager-emoji/","dgPassFrontmatter":true}
 ---
 
 Operator has a custom modified pager emoji, based on the Windows 10 Anniversary Update emoji, with two differences. First the emoji is rotated by an angle, and second it says OPERATOR on it, in brail.

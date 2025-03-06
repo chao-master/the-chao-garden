@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about/trace/","tags":["System","📝Trace","📟Operator"]}
+{"tags":["System","📝Trace","📟Operator"],"dg-publish":true,"permalink":"/about/trace/","dgPassFrontmatter":true}
 ---
 
 Trace, stylised `trace`, is the designation for the separated operator process responsible for providing explicit additional context that other members of the system have not provided for some reason.
