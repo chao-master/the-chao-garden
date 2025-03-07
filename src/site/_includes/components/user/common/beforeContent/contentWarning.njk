@@ -1,0 +1,17 @@
+{% if content_warning %}
+    <div class="content-warning callout" data-callout="warning">
+        <div class="callout-title">
+            <div class="callout-title-inner">
+                Content Warning
+            </div>
+        </div>
+        <div class="callout-content">
+            <p>
+                Warning this post has been tagged with a content warning of: <br/>
+                <strong>{{ content_warning }}</strong><br/>
+                Reader discression is advised
+            </p>
+        </div>
+    </div>
+    <hr/>
+{% endif %}
