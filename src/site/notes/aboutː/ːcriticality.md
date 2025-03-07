@@ -18,5 +18,5 @@ Here is a rough[^1] matrix of how items are prioritised[^2]
 7 is highest priority, down to 0 which is such low priority it comes below procrastination.
 
 
-[^1]: [[aboutː/ːtrace\|📝]] It was rough, then I ADHD'd it, and now it's full and nearly now a [Total order](https://en.wikipedia.org/wiki/Total_order)
+[^1]: [[aboutː/ːtrace\|📝]] It was rough, then I ADHD'd it, and now it's full and nearly a [Total ordering](https://en.wikipedia.org/wiki/Total_order)
 [^2]: [[aboutː/ːtrace\|📝]] Assuming the autism doesn't take over and just, ruin my ability to do things based on how important they are.
