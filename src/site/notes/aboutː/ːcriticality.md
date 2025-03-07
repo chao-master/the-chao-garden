@@ -7,7 +7,7 @@ How critical work is is based on two distinct factors:
 - How many people can complete it
 By assessing these two different things items are prioritised
 
-Here is a rough<sup>1</sup> matrix of how items are prioritised<sup>2</sup> 
+Here is a rough[^1] matrix of how items are prioritised[^2]
 
 |                    | Today | This week | This month |
 | ------------------ | ----- | --------- | ---------- |
@@ -17,6 +17,6 @@ Here is a rough<sup>1</sup> matrix of how items are prioritised<sup>2</sup>
 
 7 is highest priority, down to 0 which is such low priority it comes below procrastination.
 
----
-1. [[aboutː/ːtrace\|📝]] It was rough, then I ADHD'd it, and now it's full and nearly now a [Total order](https://en.wikipedia.org/wiki/Total_order)
-2. [[aboutː/ːtrace\|📝]] Assuming the autism doesn't take over and just, ruin my ability to do things based on how important they are.
+
+[^1]: [[aboutː/ːtrace\|📝]] It was rough, then I ADHD'd it, and now it's full and nearly now a [Total order](https://en.wikipedia.org/wiki/Total_order)
+[^2]: [[aboutː/ːtrace\|📝]] Assuming the autism doesn't take over and just, ruin my ability to do things based on how important they are.
