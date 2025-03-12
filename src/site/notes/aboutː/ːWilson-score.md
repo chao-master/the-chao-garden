@@ -21,8 +21,8 @@ We can then calculate how likely tails has to be so that 12 tails has a $5\%$ ch
 
 The chance of getting 12 tails in a row is $p^{12}$, where $p$ is the chance of 1 tails
 If we solve this for a probability of $5\%$ we get $p=\sqrt[12]{0.05}$ which is $\approx78\%$
-Which is far off what a naive guess of just looking at how many tails appeared would give us (Which would be $100\%$). We hence say that the actual chance the coin gives tails is $\left[78\%, 100\%\right]$ (With a $95\%$ confidence)
+Which is far off what a naïve guess of just looking at how many tails appeared would give us (Which would be $100\%$). We hence say that the actual chance the coin gives tails is $\left[78\%, 100\%\right]$ (With a $95\%$ confidence)
 
-This is just a rough overview, in reality a more complicated formula know as the Wilson Score interval is used to give a more accurate answer, but this shows how a naive guess of "it is always tails" is wrong.
+This is just a rough overview, in reality a more complicated formula know as the Wilson Score interval is used to give a more accurate answer, but this shows how a naïve guess of "it is always tails" is wrong.
 
 If we were continue to flip the coin and always see tails then the lower $78\%$ bound on our estimate would rise, with 24 trails we get $88\%$. 48 trails gives $93\%$, doubling the number of trails roughly halves the distance to $100\%$
